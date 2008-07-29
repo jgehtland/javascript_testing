@@ -1,0 +1,10 @@
+load("env.js");  
+window.location = "index.html";
+load("../../public/javascripts/lib/prototype.js");  
+load("../../public/javascripts/lib/scriptaculous.js");
+load("../../public/javascripts/lib/effects.js");
+load("../../public/javascripts/lib/controls.js");
+load("../../public/javascripts/lib/dragdrop.js");
+load("jsspec/prototypeForJsspec.js");
+load("jsspec/jsspec.js");
+load("jsspec/consoleReportForRake.js");
